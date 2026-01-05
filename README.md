@@ -14,11 +14,10 @@ Curious by nature, detail-oriented by choice.
 
 ### ✨ About me
 
-I’m a QA Trainee who likes to understand how systems really work, or how they should.
+I’m a QA Trainee who likes to understand how systems really work, or how they should.  
+I believe good software is not just about working code, but about clarity, intention, and care for the best possible experience.  
+Everyone is a user, right?   
 
-I’m interested in software quality, testing processes, and building solutions that actually make sense for real people.   
-I believe good software is not just about working code, but about clarity, intention, and care for the best possible experience. Everyone is a user, right?   
-I’m constantly learning, questioning, documenting, and improving.
 
 ### 🧪 What I’m focused on
 ✧ Software Quality Assurance (QA)
