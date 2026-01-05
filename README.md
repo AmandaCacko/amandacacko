@@ -1,14 +1,23 @@
 ## Hey! You found me.
 
-🌱 QA | Systems Analysis & Development
+![QA](https://img.shields.io/badge/QA-Quality%20Assurance-5e81ac?style=flat)
+![Testing](https://img.shields.io/badge/Testing-Software-88c0d0?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript)
+![Java](https://img.shields.io/badge/Java-333?logo=openjdk)
+![Python](https://img.shields.io/badge/Python-333?logo=python)
+![SQL](https://img.shields.io/badge/SQL-333?logo=postgresql)
+![Azure](https://img.shields.io/badge/Azure-333?logo=microsoftazure)
+![Cypress](https://img.shields.io/badge/Cypress-333?logo=cypress)
+
+🌱 QA | Systems Analysis & Development  
 Curious by nature, detail-oriented by choice.
 
 ### ✨ About me
 
 I’m a QA Trainee who likes to understand how systems really work, or how they should.
 
-I’m interested in software quality, testing processes, and building solutions that actually make sense for real people. 
-I believe good software is not just about working code, but about clarity, intention, and care for the best possible experience. Everyone is a user, right? 
+I’m interested in software quality, testing processes, and building solutions that actually make sense for real people.   
+I believe good software is not just about working code, but about clarity, intention, and care for the best possible experience. Everyone is a user, right?   
 I’m constantly learning, questioning, documenting, and improving.
 
 ### 🧪 What I’m focused on
@@ -33,7 +42,7 @@ I’m constantly learning, questioning, documenting, and improving.
 ✧ Test planning and documentation
 ✧ Foundations of test automation
 
-### 🤖 ~bee ~boop, I'm not a robot
+### 🤖 I'm not a robot ~beep ~boop
 I like to write, philosophy and art. Sometimes I go outside.
 
 ### 📫 That's all, folks.
